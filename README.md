@@ -2,7 +2,7 @@
 
 ## I'm a Developer, and a Gamer!!
 
-- 🔭 I just completed one of my application: [Diten] !
+- 🔭 I just completed one of my application: [diten] !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -29,6 +29,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
-[Dietn]: https://github.com/BooleanDev-IO/Dietn
+[dietn]: https://github.com/BooleanDev-IO/Dietn
 [instagram]: https://www.linkedin.com/in/petechopra020/
 [linkedin]: https://www.instagram.com/petechopra020/
