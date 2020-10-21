@@ -18,9 +18,9 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Android" width="26px" src="https://user-images.githubusercontent.com/37891898/96791326-e09a2800-1415-11eb-95c7-255c9d491234.png" />
+<img align="left" alt="Android" width="32px" src="https://user-images.githubusercontent.com/37891898/96791326-e09a2800-1415-11eb-95c7-255c9d491234.png" />
 <img align="left" alt="Flutter" width="26px" src="https://user-images.githubusercontent.com/37891898/96791504-3e2e7480-1416-11eb-9677-115bad376b42.png" />
-<img align="left" alt="Dart" width="26px" src="https://user-images.githubusercontent.com/37891898/96791636-6a49f580-1416-11eb-95bf-48e4160a468f.png" />
+<img align="left" alt="Dart" width="32px" src="https://user-images.githubusercontent.com/37891898/96791636-6a49f580-1416-11eb-95bf-48e4160a468f.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
