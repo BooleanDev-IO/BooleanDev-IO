@@ -2,7 +2,7 @@
 
 ## I'm a Developer, and a Gamer!!
 
-- 🔭 I just completed one of my application: [diten]!
+- 🔭 I just completed one of my application: [dietn]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
