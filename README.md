@@ -1,4 +1,4 @@
-### Hi there, I'm Piyush - aka Boolean Dev 👋
+### Hi there, I'm Piyush - aka Boolean Dev [website] 👋
 
 ## I'm a Developer, and a Gamer!!
 
@@ -28,7 +28,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
+[website] : https://programmingworld98.wixsite.com/booleandev
 [dietn]: https://github.com/BooleanDev-IO/Dietn
 [instagram]: https://www.linkedin.com/in/petechopra020/
 [linkedin]: https://www.instagram.com/petechopra020/
