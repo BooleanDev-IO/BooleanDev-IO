@@ -1,4 +1,4 @@
-### Hi there, I'm Piyush - aka Boolean Dev [website] 👋
+### Hi there, I'm Piyush - aka Boolean Dev  👋
 
 ## I'm a Developer, and a Gamer!!
 
@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to game and play guitar
 
 ### Connect with me:
-
+[<img align="left" alt="BooleanDev | Website" width="22px" src="https://user-images.githubusercontent.com/37891898/96808116-d12ad700-1435-11eb-8f9d-546460efaabf.png" />][website]
 [<img align="left" alt="BooleanDev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="BooleanDev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -28,7 +28,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-[website] : https://programmingworld98.wixsite.com/booleandev
+
 [dietn]: https://github.com/BooleanDev-IO/Dietn
 [instagram]: https://www.linkedin.com/in/petechopra020/
 [linkedin]: https://www.instagram.com/petechopra020/
+[website]: https://programmingworld98.wixsite.com/booleandev
