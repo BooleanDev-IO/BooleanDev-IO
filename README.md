@@ -32,4 +32,4 @@
 [dietn]: https://github.com/BooleanDev-IO/Dietn
 [instagram]: https://www.linkedin.com/in/petechopra020/
 [linkedin]: https://www.instagram.com/petechopra020/
-[website]: https://programmingworld98.wixsite.com/booleandev
+[website]: https://booleandev-io.github.io/
