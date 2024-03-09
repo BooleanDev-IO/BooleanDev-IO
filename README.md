@@ -8,6 +8,10 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to game and play guitar
 
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### Connect with me:
 [<img align="left" alt="BooleanDev | Website" width="22px" src="https://user-images.githubusercontent.com/37891898/96808116-d12ad700-1435-11eb-8f9d-546460efaabf.png" />][website]
 [<img align="left" alt="BooleanDev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
