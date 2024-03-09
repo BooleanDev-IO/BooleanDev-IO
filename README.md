@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to game and play guitar
 
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Piyush_Chopra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Connect with me:
