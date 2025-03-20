@@ -5,7 +5,7 @@
 - 🔭 I just completed one of my application: [dietn]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to game and play guitar
 
   
