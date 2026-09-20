@@ -6,7 +6,7 @@ India · Building as **BooleanDev**
 
 I build applications that connect an interface to useful work: coordinating AI agents, searching documents, and managing product data. My current focus is **Foundry Office**, a visible AI workspace for taking a brief through implementation, review, and local launch.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/petechopra020/) · [Explore Foundry Office](https://github.com/BooleanDev-IO/foundry-office) · [Browse my repositories](https://github.com/BooleanDev-IO?tab=repositories)
+[Portfolio](https://booleandev-io.github.io/) · [Connect on LinkedIn](https://www.linkedin.com/in/petechopra020/) · [Explore Foundry Office](https://github.com/BooleanDev-IO/foundry-office) · [Browse my repositories](https://github.com/BooleanDev-IO?tab=repositories)
 
 ## Featured project — Foundry Office
 
