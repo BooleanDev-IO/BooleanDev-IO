@@ -1,12 +1,12 @@
 # Piyush Chopra
 
-**Software developer · AI applications, Python backends, and Flutter interfaces**
+**Senior Software Engineer · Full-Stack & Agentic AI**
 
-India · Building as **BooleanDev**
+India · [piyush-chopra](https://github.com/piyush-chopra)
 
 I build applications that connect an interface to useful work: coordinating AI agents, searching documents, and managing product data. My current focus is **Foundry Office**, a visible AI workspace for taking a brief through implementation, review, and local launch.
 
-[Portfolio](https://booleandev-io.github.io/) · [Connect on LinkedIn](https://www.linkedin.com/in/petechopra020/) · [Explore Foundry Office](https://github.com/BooleanDev-IO/foundry-office) · [Browse my repositories](https://github.com/BooleanDev-IO?tab=repositories)
+[Portfolio](https://piyush-chopra.github.io/) · [Connect on LinkedIn](https://www.linkedin.com/in/petechopra020/) · [Explore Foundry Office](https://github.com/piyush-chopra/foundry-office) · [Browse my repositories](https://github.com/piyush-chopra?tab=repositories)
 
 ## Featured project — Foundry Office
 
@@ -14,7 +14,7 @@ I build applications that connect an interface to useful work: coordinating AI a
 
 A React and FastAPI application that gives founders a local workspace for AI-assisted software creation. Watch agents work, inspect files and review evidence, recover failed runs, and launch the result on your Mac.
 
-[![Foundry Office showing its live agent office, project brief, and team progress](https://raw.githubusercontent.com/BooleanDev-IO/foundry-office/main/docs/images/workspace.png)](https://github.com/BooleanDev-IO/foundry-office)
+[![Foundry Office showing its live agent office, project brief, and team progress](https://raw.githubusercontent.com/piyush-chopra/foundry-office/main/docs/images/workspace.png)](https://github.com/piyush-chopra/foundry-office)
 
 *Actual application interface with example project data.*
 
@@ -25,16 +25,16 @@ A React and FastAPI application that gives founders a local workspace for AI-ass
 
 **Stack:** Python · FastAPI · React · JavaScript · SQLite · CrewAI · Ollama · Playwright
 
-[Source & setup](https://github.com/BooleanDev-IO/foundry-office#readme) · [Architecture](https://github.com/BooleanDev-IO/foundry-office#how-it-is-built) · [Example output](https://github.com/BooleanDev-IO/foundry-office#example-space-racer)
+[Source & setup](https://github.com/piyush-chopra/foundry-office#readme) · [Architecture](https://github.com/piyush-chopra/foundry-office#how-it-is-built) · [Example output](https://github.com/piyush-chopra/foundry-office#example-space-racer)
 
 ## More work
 
 | Project | What the code explores | Technologies |
 | --- | --- | --- |
-| [Document chatbot](https://github.com/BooleanDev-IO/poc_chatbot) | A retrieval-augmented generation prototype: PDF ingestion, semantic search, conversation context, and streamed answers. | Python, Flask, Socket.IO, FAISS, Ollama |
-| [Inventory Manager](https://github.com/BooleanDev-IO/inventory_manager) | A Flutter inventory interface prototype with product/category forms, data tables, charts, and PDF-related views. | Flutter, Dart, Material, fl_chart |
+| [Document chatbot](https://github.com/piyush-chopra/poc_chatbot) | A retrieval-augmented generation prototype: PDF ingestion, semantic search, conversation context, and streamed answers. | Python, Flask, Socket.IO, FAISS, Ollama |
+| [Inventory Manager](https://github.com/piyush-chopra/inventory_manager) | A Flutter inventory interface prototype with product/category forms, data tables, charts, and PDF-related views. | Flutter, Dart, Material, fl_chart |
 
-Earlier interface explorations: [Flutter UI examples](https://github.com/BooleanDev-IO/Flutter-Complete-UI) · [Meal application](https://github.com/BooleanDev-IO/Meal_application) · [Personal expenses](https://github.com/BooleanDev-IO/Personal_Expenses)
+Earlier interface explorations: [Flutter UI examples](https://github.com/piyush-chopra/Flutter-Complete-UI) · [Meal application](https://github.com/piyush-chopra/Meal_application) · [Personal expenses](https://github.com/piyush-chopra/Personal_Expenses)
 
 ## Engineering interests
 
