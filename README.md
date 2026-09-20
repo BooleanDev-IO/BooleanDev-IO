@@ -1,39 +1,48 @@
-### Hi there, I'm Piyush - aka Boolean Dev  👋
+# Piyush Chopra
 
-## I'm a Developer, and a Gamer!!
+**Software developer · AI applications, Python backends, and Flutter interfaces**
 
-- 🔭 I just completed one of my application: [dietn]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to game and play guitar
+India · Building as **BooleanDev**
 
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=BooleanDev-IO&theme=oneLight)](https://github.com/ryo-ma/github-profile-trophy)
+I build applications that connect an interface to useful work: coordinating AI agents, searching documents, and managing product data. My current focus is **Foundry Office**, a visible AI workspace for taking a brief through implementation, review, and local launch.
 
+[Connect on LinkedIn](https://www.linkedin.com/in/petechopra020/) · [Explore Foundry Office](https://github.com/BooleanDev-IO/foundry-office) · [Browse my repositories](https://github.com/BooleanDev-IO?tab=repositories)
 
-### Connect with me:
-[<img align="left" alt="BooleanDev | Website" width="22px" src="https://user-images.githubusercontent.com/37891898/96808116-d12ad700-1435-11eb-8f9d-546460efaabf.png" />][website]
-[<img align="left" alt="BooleanDev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="BooleanDev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## Featured project — Foundry Office
 
-<br />
+**One brief. A visible AI team. Work you can inspect and run.**
 
-### Languages and Tools:
+A React and FastAPI application that gives founders a local workspace for AI-assisted software creation. Watch agents work, inspect files and review evidence, recover failed runs, and launch the result on your Mac.
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Android" width="32px" src="https://user-images.githubusercontent.com/37891898/96791326-e09a2800-1415-11eb-95c7-255c9d491234.png" />
-<img align="left" alt="Flutter" width="26px" src="https://user-images.githubusercontent.com/37891898/96791504-3e2e7480-1416-11eb-9677-115bad376b42.png" />
-<img align="left" alt="Dart" width="32px" src="https://user-images.githubusercontent.com/37891898/96791636-6a49f580-1416-11eb-95bf-48e4160a468f.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+[![Foundry Office showing its live agent office, project brief, and team progress](https://raw.githubusercontent.com/BooleanDev-IO/foundry-office/main/docs/images/workspace.png)](https://github.com/BooleanDev-IO/foundry-office)
 
+*Actual application interface with example project data.*
 
-[dietn]: https://github.com/BooleanDev-IO/Dietn
-[instagram]: https://www.linkedin.com/in/petechopra020/
-[linkedin]: https://www.instagram.com/petechopra020/
-[website]: https://booleandev-io.github.io/
+- **Workflow:** CrewAI contributors and independent verifiers, with output- and error-driven review.
+- **Reliability:** SQLite persistence, event streaming, targeted retries, backup and restore, and service readiness checks.
+- **Interface:** A one-page workspace with separate components, smooth agent movement, long-text handling, and reduced-motion support.
+- **Verification:** Backend and frontend test suites, plus browser checks for the delivery and launch flow.
+
+**Stack:** Python · FastAPI · React · JavaScript · SQLite · CrewAI · Ollama · Playwright
+
+[Source & setup](https://github.com/BooleanDev-IO/foundry-office#readme) · [Architecture](https://github.com/BooleanDev-IO/foundry-office#how-it-is-built) · [Example output](https://github.com/BooleanDev-IO/foundry-office#example-space-racer)
+
+## More work
+
+| Project | What the code explores | Technologies |
+| --- | --- | --- |
+| [Document chatbot](https://github.com/BooleanDev-IO/poc_chatbot) | A retrieval-augmented generation prototype: PDF ingestion, semantic search, conversation context, and streamed answers. | Python, Flask, Socket.IO, FAISS, Ollama |
+| [Inventory Manager](https://github.com/BooleanDev-IO/inventory_manager) | A Flutter inventory interface prototype with product/category forms, data tables, charts, and PDF-related views. | Flutter, Dart, Material, fl_chart |
+
+Earlier interface explorations: [Flutter UI examples](https://github.com/BooleanDev-IO/Flutter-Complete-UI) · [Meal application](https://github.com/BooleanDev-IO/Meal_application) · [Personal expenses](https://github.com/BooleanDev-IO/Personal_Expenses)
+
+## Engineering interests
+
+- AI workflows with inspectable results and explicit failure recovery.
+- Python APIs and persistent application state.
+- React and Flutter interfaces that make complex tasks easier to follow.
+- Practical developer tooling, testing, and clear setup documentation.
+
+For engineering opportunities or a conversation about these projects, [reach me on LinkedIn](https://www.linkedin.com/in/petechopra020/).
+
+Outside code: gaming and guitar.
